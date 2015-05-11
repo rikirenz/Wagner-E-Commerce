@@ -1,0 +1,40 @@
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+.carousel-inner{
+    background: #50c1e9;
+}
+
+.badge, .label {
+  background-color: #50c1e9;
+}
+.carousel-indicators li {
+  background-color: #37BC9B;
+}
+.carousel-indicators .active {
+  background-color: #50c1e9;
+}
+.item h4{
+  color: #000000;
+}
+.item p{
+  color: #000000;
+}
+
+#errorList li{
+  color:red;
+}
+
+#credit-card-list li a{
+	color:#48CFAD;	
+}
+.dropdown-menu .active a, .dropdown-menu .active a:focus, .dropdown-menu .active a:hover, .dropdown-menu li a:focus, .dropdown-menu li a:hover {
+	color:white;
+
+}
+
+
+.panel-danger>.panel-heading {
+	background-color: #50c1e9;
+	border-color: #50c1e9;
+}
